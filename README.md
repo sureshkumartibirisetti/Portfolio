@@ -19,7 +19,7 @@ A modern, responsive portfolio website built with:
 
 ## 🛠️ Installation  
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/sureshkumartibirisetti/Portfolio.git
 cd portfolio
 open index.html
 ```
