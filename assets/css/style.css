@@ -426,7 +426,7 @@ nav {
 
 .skill-category:hover {
     transform: translateY(-5px);
-    border-left: 3px solid var(--white);
+    border-left: 3px solid var(--white) !important;
 }
 
 .skill-category h3 {
