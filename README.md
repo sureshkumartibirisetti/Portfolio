@@ -4,7 +4,7 @@
 
 **🚀 Live Demo:** [tinyurl.com/tibirisetti](https://tinyurl.com/tibirisetti)  
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/473aabef-2ad1-4388-be9c-2a0b97a833a7) <!-- Replace with your actual image path -->  
+![Portfolio Screenshot](https://github.com/user-attachments/assets/a74a365f-acbd-41d3-a6f6-8781647fbf1a) <!-- Replace with your actual image path -->  
 
 A modern, responsive portfolio website built with:  
 - ⚡ **HTML5** for structure  
